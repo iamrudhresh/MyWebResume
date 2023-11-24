@@ -1,4 +1,4 @@
-# MYWebResume
+# My Web Resume
 ### This is My Wb Resume Made With
 <ul>
 <li> HTML </li>
