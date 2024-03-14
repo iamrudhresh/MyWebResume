@@ -7,4 +7,4 @@
 </ul>
 
 ## Live
-(https://iamrudhresh-webresume.vercel.app/)https://iamrudhresh-webresume.vercel.app/
+https://iamrudhresh-webresume.vercel.app/
